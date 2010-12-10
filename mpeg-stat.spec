@@ -1,6 +1,6 @@
 Name: 	 		mpeg-stat
 Version: 		2.2b
-Release:		%mkrel 1
+Release:		%mkrel 2
 
 Summary: 	MPEG-1 video analyser
 Source0: 	mpeg_stat-%{version}-src.tar.gz
