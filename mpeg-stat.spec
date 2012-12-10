@@ -36,3 +36,17 @@ rm -rf %{buildroot}
 %{_bindir}/mpeg_stat
 %{_mandir}/man1/*
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 2.2b-2mdv2011.0
++ Revision: 620404
+- the mass rebuild of 2010.0 packages
+
+* Thu Oct 15 2009 Guillaume Bedot <littletux@mandriva.org> 2.2b-1mdv2010.0
++ Revision: 457522
+- import mpeg-stat
+
+
+* Thu Oct 15 2009 Guillaume Bedot <littletux@mandriva.org> 2.2b-1mdv2010.0
+- New package for mpeg-stat
