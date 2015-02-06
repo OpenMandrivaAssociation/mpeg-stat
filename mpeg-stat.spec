@@ -4,7 +4,7 @@
 Summary:	MPEG-1 video analyser
 Name:		mpeg-stat
 Version:	2.2b
-Release:	3
+Release:	4
 License:	BSD
 Group:		Video
 Url:		http://bmrc.berkeley.edu/research/mpeg/
