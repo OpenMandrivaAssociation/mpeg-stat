@@ -7,7 +7,7 @@ Version:	2.2b
 Release:	4
 License:	BSD
 Group:		Video
-Url:		http://bmrc.berkeley.edu/research/mpeg/
+Url:		https://bmrc.berkeley.edu/research/mpeg/
 Source0:	mpeg_stat-%{version}-src.tar.gz
 #http://bmrc.berkeley.edu/ftp/pub/multimedia/mpeg/stat/mpeg_stat-2.2b-src.tar.gz
 
