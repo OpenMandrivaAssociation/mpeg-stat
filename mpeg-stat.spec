@@ -11,6 +11,7 @@ Url:		https://bmrc.berkeley.edu/research/mpeg/
 Source0:	mpeg_stat-%{version}-src.tar.gz
 #http://bmrc.berkeley.edu/ftp/pub/multimedia/mpeg/stat/mpeg_stat-2.2b-src.tar.gz
 
+BuildRequires:	make
 %description
 MPEG_STAT gathers all lot of statistics (e.g., bitrate, real Q-scale 
 information, detailed motion vector/cbp information, constrained parameter 
